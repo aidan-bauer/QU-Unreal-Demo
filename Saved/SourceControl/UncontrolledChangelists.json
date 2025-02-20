@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/CBLAKE/Documents/Unreal Projects/QU_2025_unreal_ab/Content/Effects/NE_burst.uasset",
+				"C:/Users/CBLAKE/Documents/Unreal Projects/QU_2025_unreal_ab/Content/Materials/NE_mat.uasset",
+				"C:/Users/CBLAKE/Documents/Unreal Projects/QU_2025_unreal_ab/Content/Effects/NE_system.uasset",
+				"C:/Users/CBLAKE/Documents/Unreal Projects/QU_2025_unreal_ab/Content/Effects/NE_burst_system.uasset",
+				"C:/Users/CBLAKE/Documents/Unreal Projects/QU_2025_unreal_ab/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/KWA93N1TR4SEJ4EVIUP46P.uasset",
+				"C:/Users/CBLAKE/Documents/Unreal Projects/QU_2025_unreal_ab/Content/BP_Bot.uasset"
+			]
+		}
+	]
+}
